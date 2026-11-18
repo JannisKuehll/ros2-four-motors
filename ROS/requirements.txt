@@ -1,0 +1,2 @@
+# Install with the Python interpreter belonging to ROS 2; rclpy comes from ROS.
+pyserial==3.5
